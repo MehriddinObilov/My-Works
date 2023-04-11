@@ -1,0 +1,14 @@
+@media (prefers-color-schema: dark){
+    :root {
+        --body: #151437;
+        --text-color: #fff;
+        --dots:  #EBEBEB;
+        --footer-link: #fff;
+    }
+
+    .title {
+        font-size: calc(28 + 12 * (100vw / 320));
+    }
+    
+}
+
